@@ -5,6 +5,6 @@ gem 'nokogiri'
 gem 'dotenv'
 gem 'google_drive'
 gem 'pry'
-
-
-
+gem 'csv'
+gem 'sinatra'
+gem 'shotgun'
